@@ -1,0 +1,5 @@
+swag/dns-conf/cloudflare.ini
+swag/etc/letsencrypt
+swag/keys
+swag/log
+*.sqlite3
